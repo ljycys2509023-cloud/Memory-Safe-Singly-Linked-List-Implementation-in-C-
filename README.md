@@ -19,7 +19,9 @@ of pointers during deletion to avoid unsafe memory access. - **Edge Case Handlin
   - Head node removal.
   - Safe traversal with `nullptr` termination. ---
 ## ▶️ Example Output
-```text 50->40->30->20->10->NULL 50->40->20->10->NULL
+```text 
+50->40->30->20->10->NULL 
+50->40->20->10->NULL
 100->50->300->40->20->10->NULL
 
 ---
