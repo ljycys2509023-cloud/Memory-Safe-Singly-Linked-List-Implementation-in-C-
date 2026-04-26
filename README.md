@@ -1,4 +1,4 @@
-# Singly Linked List Implementation in C++
+ï»¿# Singly Linked List Implementation in C++
 ## ğŸ“Œ Project Overview
 This project implements a **Singly Linked List** in C++, developed during my first year at XMUM. It focuses on building a solid understanding of: 
 - **Pointer manipulation**: Managing links between nodes. 
@@ -167,12 +167,10 @@ Use the following command to compile the triage system: ```bash g++ PatientQueue
 Run the compiled program to enter the secure login interface
 : ./hospital_system
 ### 4. System Usage Guide
-€¢ Login: Enter doctor or nurse to access specific workstations. 
-€¢ Navigation: Follow the on-screen numerical menus to perform operations. 
-€¢ Termination: Type exit in the main login screen to trigger the Secure Exit Protocol and clear memory.
+ï¿½ï¿½ Login: Enter doctor or nurse to access specific workstations. 
+ï¿½ï¿½ Navigation: Follow the on-screen numerical menus to perform operations. 
+ï¿½ï¿½ Termination: Type exit in the main login screen to trigger the Secure Exit Protocol and clear memory.
 
 ğŸ“ˆ v3.0 Evolution Sumary
 â€¢ Fulfilled: âœ… Role-based Access Control (RBAC) | âœ… Clinical Condition Tracking | âœ… Defensive Input Handling.
 â€¢ Future Roadmap: ğŸ” Implementing DJB2 Password Hashing for cryptographic security | ğŸ’¾ Adding File I/O Persistence for patient records.
-
-
